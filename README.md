@@ -1,8 +1,9 @@
-Zea Mays SNP Calling Project Project started 2020-5-27
-test
-git commit 
-TODO: ask sequencing center about adaptors 
-Samples expected from sequecing core 2020-5-27
+Zea Mays SNP Calling Project
+Project started 2013-01-03
+Samples expected from sequecing core 2013-01-10
 
 
-Maize reference genome version :refgen
+
+
+Maize reference genome version: refgen3,downloaded 2013-01-04 from 
+http://maizegdb.org into `/share/data/refgen3/`.
